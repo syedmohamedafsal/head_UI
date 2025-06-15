@@ -8,7 +8,7 @@ import 'package:flutter/material.dart';
 //   size: Size(WIDTH,(WIDTH*0.5833333333333334).toDouble()), //You can Replace [WIDTH] with your desired width for Custom Paint and height will be calculated automatically
 //   painter: RPSCustomPainter(),
 // ),
-class RPSCustomPainter extends CustomPainter {
+class RightSideCustomPainter extends CustomPainter {
   @override
   void paint(Canvas canvas, Size size) {
     // Layer 1

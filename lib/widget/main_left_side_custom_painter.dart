@@ -9,7 +9,7 @@ import 'package:flutter/material.dart';
 //   painter: RPSCustomPainter(),
 // ),
 
-class RPSCustomPainter extends CustomPainter {
+class LeftSideCustomPainter extends CustomPainter {
   @override
   void paint(Canvas canvas, Size size) {
     // Layer 1
